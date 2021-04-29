@@ -1,0 +1,9 @@
+Drawer:
+-color of the highlighted screen okay?
+-screens
+    - add resources screen?
+        -we could thank cdc/who/boston childrens hospital/ johnhopkins etc 
+    -seperate Privacy and Legal screns?
+
+
+
