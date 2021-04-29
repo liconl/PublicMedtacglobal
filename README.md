@@ -5,9 +5,6 @@ Because Medtacglobal is a trademarked application, I cannot show the entire proj
 # Sample Images
 ### The app is still in development so changes are expected!
 
-###### Home page (the icons are currently being designed!) 
-![image](https://user-images.githubusercontent.com/60866363/116501860-c6c71b00-a866-11eb-9778-9dbfa1537912.png)
-
 ###### Sample Topic Screen
 ![image](https://user-images.githubusercontent.com/60866363/116502128-861bd180-a867-11eb-9f7d-f199b54907e4.png)
 
